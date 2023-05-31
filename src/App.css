@@ -1,0 +1,80 @@
+.playground{
+  background-color: rgb(5, 0, 51);
+  margin-top:-8px;
+  margin-left:-8px;
+  width:1311px;
+  height:760px;
+}
+
+#title{
+  width:1311px;
+  height:80px;
+  background-color:rgb(72, 2, 138);
+}
+
+#logo{
+  height:50px;
+  width:250px;
+  margin-top:15px;
+}
+
+#font{
+  color:white;
+  background-color:rgb(72, 2, 138);
+  width:600px;
+  height:200px;
+}
+
+#font1{
+  color:white;
+  background-color:rgb(72, 2, 138);
+  width:600px;
+  height:200px;
+  margin-top:-20px;
+}
+
+#font2{
+  color:white;
+  background-color:rgb(72, 2, 138);
+  width:600px;
+  height:200px;
+  margin-top:-20px;
+}
+
+#txt{
+  position:absolute;
+  margin-top:-190px;
+  height:160px;
+  width:590px;
+  margin-left:2px;
+  background-color:rgb(5, 0, 51);
+  color:white;
+}
+
+.right{
+  margin-left:620px;
+  margin-top:-650px;
+  text-align:center;
+  background-color: rgb(72, 2, 138);
+  width:660px;
+  height:630px;
+}
+
+#output{
+  height:571px;
+  width:650px;
+  background-color:white;
+}
+
+#button{
+  color:white;
+  background-color: rgb(5, 0, 51) ;
+  border:none;
+  border-radius:5px;
+  height:40px;
+  width:70px;
+  margin-top:5px;
+  margin-bottom:5px;
+  cursor:pointer;
+  margin-right:20px;
+}
